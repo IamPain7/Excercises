@@ -29,7 +29,7 @@ namespace VariablesExcercise
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            
         }
     }
 }

@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Diagnostics;
 
 namespace VariablesExcercise
 {
@@ -29,6 +30,58 @@ namespace VariablesExcercise
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("What is your name?");
+
+            String name = Console.ReadLine();
+            Console.WriteLine($"Hello {name}"!);
+
+            Console.WriteLine("How old are you?");
+            int myAge = int.Parse(Console.ReadLine());
+            Console.WriteLine($"{myAge} looks young to me!");
+
+            Console.WriteLine("What is your favorite Char?");
+            char favChar = Convert.ToChar(Console.ReadLine());
+
+            Console.WriteLine("Are you married? Only asnwer True or False");
+            var isMarreid = Console.ReadLine();
+            bool isResult = Convert.ToBoolean(isMarreid);
+           
+
+            if (isResult==true)
+            {
+
+                Console.WriteLine($"Oh ok");
+
+
+
+            }
+
+            else
+            {
+
+                Console.WriteLine("So are you single");
+                
+
+            }
+        
+
+
+          
+
+
+            Console.WriteLine("what is your favorite numbers?");
+            double myNumbers = Convert.ToDouble(Console.ReadLine());
+
+
+            Console.WriteLine("What is your favor decimal numbers?");
+            decimal myDec = Convert.ToDecimal(Console.ReadLine());
+            Console.WriteLine(myDec);
+
+        
+
+            
+
+         
             
         }
     }

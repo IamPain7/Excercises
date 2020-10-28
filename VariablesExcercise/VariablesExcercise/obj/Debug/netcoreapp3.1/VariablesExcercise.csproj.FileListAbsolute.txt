@@ -1,0 +1,13 @@
+C:\Users\IamPain7\TrueCodersExcercise\src\VariablesExcercise\VariablesExcercise\bin\Debug\netcoreapp3.1\VariablesExcercise.exe
+C:\Users\IamPain7\TrueCodersExcercise\src\VariablesExcercise\VariablesExcercise\bin\Debug\netcoreapp3.1\VariablesExcercise.deps.json
+C:\Users\IamPain7\TrueCodersExcercise\src\VariablesExcercise\VariablesExcercise\bin\Debug\netcoreapp3.1\VariablesExcercise.runtimeconfig.json
+C:\Users\IamPain7\TrueCodersExcercise\src\VariablesExcercise\VariablesExcercise\bin\Debug\netcoreapp3.1\VariablesExcercise.runtimeconfig.dev.json
+C:\Users\IamPain7\TrueCodersExcercise\src\VariablesExcercise\VariablesExcercise\bin\Debug\netcoreapp3.1\VariablesExcercise.dll
+C:\Users\IamPain7\TrueCodersExcercise\src\VariablesExcercise\VariablesExcercise\bin\Debug\netcoreapp3.1\VariablesExcercise.pdb
+C:\Users\IamPain7\TrueCodersExcercise\src\VariablesExcercise\VariablesExcercise\obj\Debug\netcoreapp3.1\VariablesExcercise.csprojAssemblyReference.cache
+C:\Users\IamPain7\TrueCodersExcercise\src\VariablesExcercise\VariablesExcercise\obj\Debug\netcoreapp3.1\VariablesExcercise.AssemblyInfoInputs.cache
+C:\Users\IamPain7\TrueCodersExcercise\src\VariablesExcercise\VariablesExcercise\obj\Debug\netcoreapp3.1\VariablesExcercise.AssemblyInfo.cs
+C:\Users\IamPain7\TrueCodersExcercise\src\VariablesExcercise\VariablesExcercise\obj\Debug\netcoreapp3.1\VariablesExcercise.csproj.CoreCompileInputs.cache
+C:\Users\IamPain7\TrueCodersExcercise\src\VariablesExcercise\VariablesExcercise\obj\Debug\netcoreapp3.1\VariablesExcercise.dll
+C:\Users\IamPain7\TrueCodersExcercise\src\VariablesExcercise\VariablesExcercise\obj\Debug\netcoreapp3.1\VariablesExcercise.pdb
+C:\Users\IamPain7\TrueCodersExcercise\src\VariablesExcercise\VariablesExcercise\obj\Debug\netcoreapp3.1\VariablesExcercise.genruntimeconfig.cache

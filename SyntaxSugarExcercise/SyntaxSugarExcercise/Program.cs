@@ -7,26 +7,8 @@ namespace SyntaxSugarExcercise
 
 
         /*
-         * Given the following code, change the code to implement inferred typing, string interpolation, and the ternary operator
-
-         * int answer = 4;
-            string response;
-            
-            if (answer < 9) 
-            {
-                response = answer + " is less than nine";
-                        }
-                else
-                {
-                   response = answer + “greater than or equal to nine”;
-                }
-
-
-
-            
-                    
+        
                     Cheat code:
-
                     Inferred Typing Sample:
                     var name= "Jj";
 
@@ -39,20 +21,32 @@ namespace SyntaxSugarExcercise
 
                     Syntax sugar or string interpolation sample:
                     Console.Writeline($"Hello,{} your pets name {}, and ")
+        ===================================  ===================================  ===================================  ===================================  =================================
+                  * Given the following code, change the code to implement inferred typing, string interpolation, and the ternary operator
+          
+                 *  int answer = 4;
+                    string response;
+            
+                    if (answer < 9) 
+                    {
+                    response = answer + " is less than nine";
+                    }
+                     else
+                    {
+                     response = answer + “greater than or equal to nine”;
+                    }
 
-         */
-           static void Main(string[] args)
+
+                 */
+        static void Main(string[] args)
         {
+            //I don't know what I'm doing
+            //Mistake you used int
+            var answer = 4; //Data type, Variable and Value // Explicit Typing// Value type
+            //You changed string to var 
+            var response  = (answer <9) ? $"{answer} is less than nine" : $"9 is greater than {answer}"; //ternary operator
 
-
-            int answer = 4; //Data type, Variable and Value
-            String response; // giving users to input numbers 
-
-
-
-            var result = (answer > 9) ? $"{answer} is less than nine" : $"9 is greater than {answer}"; //ternary operator
-
-            Console.WriteLine($"{result}"); //string interpolation
+            Console.WriteLine($"{response}"); //string interpolation
 
 
           

@@ -1,0 +1,13 @@
+C:\Users\IamPain7\TrueCodersExcercise\src\SyntaxSugarExcercise\SyntaxSugarExcercise\bin\Debug\netcoreapp3.1\SyntaxSugarExcercise.exe
+C:\Users\IamPain7\TrueCodersExcercise\src\SyntaxSugarExcercise\SyntaxSugarExcercise\bin\Debug\netcoreapp3.1\SyntaxSugarExcercise.deps.json
+C:\Users\IamPain7\TrueCodersExcercise\src\SyntaxSugarExcercise\SyntaxSugarExcercise\bin\Debug\netcoreapp3.1\SyntaxSugarExcercise.runtimeconfig.json
+C:\Users\IamPain7\TrueCodersExcercise\src\SyntaxSugarExcercise\SyntaxSugarExcercise\bin\Debug\netcoreapp3.1\SyntaxSugarExcercise.runtimeconfig.dev.json
+C:\Users\IamPain7\TrueCodersExcercise\src\SyntaxSugarExcercise\SyntaxSugarExcercise\bin\Debug\netcoreapp3.1\SyntaxSugarExcercise.dll
+C:\Users\IamPain7\TrueCodersExcercise\src\SyntaxSugarExcercise\SyntaxSugarExcercise\bin\Debug\netcoreapp3.1\SyntaxSugarExcercise.pdb
+C:\Users\IamPain7\TrueCodersExcercise\src\SyntaxSugarExcercise\SyntaxSugarExcercise\obj\Debug\netcoreapp3.1\SyntaxSugarExcercise.csprojAssemblyReference.cache
+C:\Users\IamPain7\TrueCodersExcercise\src\SyntaxSugarExcercise\SyntaxSugarExcercise\obj\Debug\netcoreapp3.1\SyntaxSugarExcercise.AssemblyInfoInputs.cache
+C:\Users\IamPain7\TrueCodersExcercise\src\SyntaxSugarExcercise\SyntaxSugarExcercise\obj\Debug\netcoreapp3.1\SyntaxSugarExcercise.AssemblyInfo.cs
+C:\Users\IamPain7\TrueCodersExcercise\src\SyntaxSugarExcercise\SyntaxSugarExcercise\obj\Debug\netcoreapp3.1\SyntaxSugarExcercise.csproj.CoreCompileInputs.cache
+C:\Users\IamPain7\TrueCodersExcercise\src\SyntaxSugarExcercise\SyntaxSugarExcercise\obj\Debug\netcoreapp3.1\SyntaxSugarExcercise.dll
+C:\Users\IamPain7\TrueCodersExcercise\src\SyntaxSugarExcercise\SyntaxSugarExcercise\obj\Debug\netcoreapp3.1\SyntaxSugarExcercise.pdb
+C:\Users\IamPain7\TrueCodersExcercise\src\SyntaxSugarExcercise\SyntaxSugarExcercise\obj\Debug\netcoreapp3.1\SyntaxSugarExcercise.genruntimeconfig.cache

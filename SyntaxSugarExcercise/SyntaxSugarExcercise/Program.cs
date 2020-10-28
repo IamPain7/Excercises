@@ -20,9 +20,14 @@ namespace SyntaxSugarExcercise
                 {
                    response = answer + “greater than or equal to nine”;
                 }
-                Inferred Typing Sample:
+
+
+
+            
                     
                     Cheat code:
+
+                    Inferred Typing Sample:
                     var name= "Jj";
 
                     Explicit typing Sample:
@@ -36,23 +41,21 @@ namespace SyntaxSugarExcercise
                     Console.Writeline($"Hello,{} your pets name {}, and ")
 
          */
-        static void Main(string[] args)
+           static void Main(string[] args)
         {
 
 
             int answer = 4; //Data type, Variable and Value
-            String response = Console.ReadLine();
+            String response; // giving users to input numbers 
 
 
 
-            var result = (answer < 9) ? "Yes it is less than nine" : " 9 is greater than 4"; //ternary operator
+            var result = (answer > 9) ? $"{answer} is less than nine" : $"9 is greater than {answer}"; //ternary operator
 
-            Console.WriteLine($"The result is {result}"); //string interpolation
+            Console.WriteLine($"{result}"); //string interpolation
 
 
-            //
-
-            //
+          
 
 
 

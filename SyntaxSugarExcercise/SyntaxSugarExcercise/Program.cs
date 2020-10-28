@@ -39,20 +39,18 @@ namespace SyntaxSugarExcercise
         static void Main(string[] args)
         {
 
+
             int answer = 4; //Data type, Variable and Value
             String response = Console.ReadLine();
 
 
 
-         var result = (answer < 4) ? "Yes it is less than nine" : " 9 is greater than 4"; //ternary operator
+            var result = (answer < 4) ? "Yes it is less than nine" : " 9 is greater than 4"; //ternary operator
 
             Console.WriteLine($"The result is {result}"); //string interpolation
 
 
-
-
-
-
+            //
 
 
 

@@ -75,7 +75,7 @@ namespace VariablesExcercise
 
             Console.WriteLine("What is your favor decimal numbers?");
             decimal myDec = Convert.ToDecimal(Console.ReadLine());
-            Console.WriteLine(myDec);
+          
 
         
 

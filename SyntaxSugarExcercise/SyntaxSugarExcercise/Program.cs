@@ -42,7 +42,7 @@ namespace SyntaxSugarExcercise
         {
             //I don't know what I'm doing
             //Mistake you used int
-            var answer = 4; //Data type, Variable and Value // Explicit Typing// Value type
+            var answer = 4; //Data type, Variable and Value // Inference typing// Value type
             //You changed string to var 
             var response  = (answer <9) ? $"{answer} is less than nine" : $"9 is greater than {answer}"; //ternary operator
 

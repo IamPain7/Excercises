@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\IamPain7\\TrueCodersExcercise\\src\\ForLoopPractice\\ForLoopPractice\\ForLoopPractice.csproj": {}
+    "C:\\Users\\IamPain7\\TrueCodersExcercise\\src\\MethodsWithLoopsAndConditionals\\MethodsWithLoopsAndConditionals\\MethodsWithLoopsAndConditionals\\MethodsWithLoopsAndConditionals.csproj": {}
   },
   "projects": {
-    "C:\\Users\\IamPain7\\TrueCodersExcercise\\src\\ForLoopPractice\\ForLoopPractice\\ForLoopPractice.csproj": {
+    "C:\\Users\\IamPain7\\TrueCodersExcercise\\src\\MethodsWithLoopsAndConditionals\\MethodsWithLoopsAndConditionals\\MethodsWithLoopsAndConditionals\\MethodsWithLoopsAndConditionals.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\IamPain7\\TrueCodersExcercise\\src\\ForLoopPractice\\ForLoopPractice\\ForLoopPractice.csproj",
-        "projectName": "ForLoopPractice",
-        "projectPath": "C:\\Users\\IamPain7\\TrueCodersExcercise\\src\\ForLoopPractice\\ForLoopPractice\\ForLoopPractice.csproj",
+        "projectUniqueName": "C:\\Users\\IamPain7\\TrueCodersExcercise\\src\\MethodsWithLoopsAndConditionals\\MethodsWithLoopsAndConditionals\\MethodsWithLoopsAndConditionals\\MethodsWithLoopsAndConditionals.csproj",
+        "projectName": "MethodsWithLoopsAndConditionals",
+        "projectPath": "C:\\Users\\IamPain7\\TrueCodersExcercise\\src\\MethodsWithLoopsAndConditionals\\MethodsWithLoopsAndConditionals\\MethodsWithLoopsAndConditionals\\MethodsWithLoopsAndConditionals.csproj",
         "packagesPath": "C:\\Users\\IamPain7\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\IamPain7\\TrueCodersExcercise\\src\\ForLoopPractice\\ForLoopPractice\\obj\\",
+        "outputPath": "C:\\Users\\IamPain7\\TrueCodersExcercise\\src\\MethodsWithLoopsAndConditionals\\MethodsWithLoopsAndConditionals\\MethodsWithLoopsAndConditionals\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\IamPain7\\AppData\\Roaming\\NuGet\\NuGet.Config",
